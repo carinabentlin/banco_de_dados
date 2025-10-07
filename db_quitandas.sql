@@ -1,1 +1,0 @@
-SELECT * FROM db_quitanda.tb_produtos;
